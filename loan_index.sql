@@ -1,0 +1,2 @@
+CREATE INDEX LOAN_INDEX 
+on loan(AccNo);
